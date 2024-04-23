@@ -19,6 +19,9 @@
   <p align="center">
     An ambitious project built on the robust foundation of Laravel
     <br />
+    <a href="https://github.com/4lpcuong/vfoodie">
+    <img src="images/vfoodie.gif" alt="home page" >
+  </a>
     <br />
     <a href="https://vfoodie.top">View Demo</a>
     ·

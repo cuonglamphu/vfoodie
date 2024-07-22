@@ -145,7 +145,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Cuong Lam Phu & Huy Tong - [contact us](https://www.vfoodie.top/contact)
+Cuong Lam Phu & Huy Tong - [contact us](https://github.com/4lpcuong/vfoodie)
 
 Project Link: [https://github.com/4lpcuong/vfoodie](https://github.com/4lpcuong/vfoodie)
 

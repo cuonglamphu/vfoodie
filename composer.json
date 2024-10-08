@@ -11,7 +11,7 @@
         "laravel-admin-ext/backup": "^1.1",
         "laravel-admin-ext/log-viewer": "^1.0",
         "laravel/breeze": "^2.0",
-        "laravel/framework": "^11.0",
+        "laravel/framework": "^46011.0",
         "laravel/tinker": "^2.9",
         "livewire/livewire": "^3.4",
         "pusher/pusher-php-server": "^7.2",
